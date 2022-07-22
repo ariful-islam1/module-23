@@ -13,3 +13,5 @@
 23-6 Explore getElementsByClassName and querySelectorAll
 
 23-7 NodeList, htmlcollection, setAttribute, parentNode, childnodes
+
+23-8 Create HTML elements using Javascript and appendChild
