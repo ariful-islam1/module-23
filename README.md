@@ -4,3 +4,4 @@
 
 23-2 Create Script tag and connect external Script file
 
+23-3 What is DOM (Document Object Model)
