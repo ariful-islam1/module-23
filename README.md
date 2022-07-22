@@ -9,3 +9,5 @@
 23-4 Get different HTML elements in JS by using tag name
 
 23-5 Capture and change Element by using getElementById
+
+23-6 Explore getElementsByClassName and querySelectorAll
