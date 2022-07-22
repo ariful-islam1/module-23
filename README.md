@@ -11,3 +11,5 @@
 23-5 Capture and change Element by using getElementById
 
 23-6 Explore getElementsByClassName and querySelectorAll
+
+23-7 NodeList, htmlcollection, setAttribute, parentNode, childnodes
