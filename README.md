@@ -15,3 +15,5 @@
 23-7 NodeList, htmlcollection, setAttribute, parentNode, childnodes
 
 23-8 Create HTML elements using Javascript and appendChild
+
+23-9 Module summary and DOM Review
