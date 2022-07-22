@@ -7,3 +7,5 @@
 23-3 What is DOM (Document Object Model)
 
 23-4 Get different HTML elements in JS by using tag name
+
+23-5 Capture and change Element by using getElementById
